@@ -13,11 +13,20 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
   - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
@@ -27,13 +36,26 @@
 
 **Hello Microverse** is a project that was created in relation to the Microverse curriculumn.
 
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+This project was created in HTML and CSS to display a simple message.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+I plan to implement a name input that will get the name of the site visitor, and frame the message with the name of the user.
+
+- **[name_input]**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -64,8 +86,6 @@ Open the index.html file in your local browser to interact.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Benson Njuguna**
 
 - GitHub: [@bennyjoez](https://github.com/bennyjoez)
@@ -87,8 +107,6 @@ Feel free to check the [issues page](https://github.com/microvese-projects/hello
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse for the outstanding collection of information they have that enabled me to create the project.
 
