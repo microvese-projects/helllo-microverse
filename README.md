@@ -1,5 +1,3 @@
-# helllo-microverse
-
 <a name="readme-top"></a>
 
 <div align="center">
@@ -22,7 +20,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -59,6 +56,10 @@ I plan to implement a name input that will get the name of the site visitor, and
 
 To get a local copy up and running, follow these steps.
 
+### Prerequisites <a name="prerequisites></>
+In order to set up a local copy of this repository, you need to have git installed: 
+
+[Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) <a name="install"></a>
 
 ### Setup <a name="setup"></a>
 
@@ -79,6 +80,8 @@ To run the project:
 
 Open the index.html file in your local browser to interact.
 
+### Usage <a name="run-tests"></a>
+Tests can be performed using the lighthouse extension on google chrome to get a report of the page performance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,6 +104,14 @@ Open the index.html file in your local browser to interact.
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/microvese-projects/hello-microverse/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project, you can show your support by giving this project's repository a star on github. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
