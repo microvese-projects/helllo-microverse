@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse <a name="about-project">Hello Microverse</a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
 **Hello Microverse** is a project that was created in relation to the Microverse curriculumn.
 
